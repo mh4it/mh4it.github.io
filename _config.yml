@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mh4it.github.io
+title: We Insist
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 20
